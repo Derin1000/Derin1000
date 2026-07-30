@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Derin 👋</h1>
+<h1 align="center"> I'm Derin 👋</h1>
 
 <p align="center">
   Third-year Computer and Information Science student at the University of Pittsburgh
 </p>
 
 
-## 🚀 Projects
+## 🔨 Projects
 
 ### Frontend Web Development
 `React` `Tailwind CSS` `JavaScript`
