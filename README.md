@@ -23,7 +23,7 @@
 |---|---|
 | [**Basic Kobuki Robot Control**](https://github.com/sharonjoseph0909/Project-1-Kobuki) | Fundamentals of robot motion control using ROS 2. |
 | [**Kobuki Robot Path Following**](https://github.com/Derin1000/CS1567-Project-2) | Autonomous path-following behavior implemented on a Kobuki robot. |
-| [**Visual Servoing Kobuki Robot**](https://github.com/Derin1000/CS1567-Project-3) 🚧 | Vision-guided robot control using visual servoing techniques. *(Work in Progress)* |
+| [**Visual Servoing Kobuki Robot**](https://github.com/Derin1000/CS1567-Project-3) | Vision-guided robot control using visual servoing techniques. |
 
 <br/>
 
